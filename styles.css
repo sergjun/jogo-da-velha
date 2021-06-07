@@ -1,0 +1,55 @@
+* 
+{
+    margin: 0;
+    
+}
+
+h2
+{   
+    text-align: center;
+}
+
+
+#tela-escura
+{
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.95;
+    position: absolute;
+    color: white;
+    display: none;
+    background-color: black;
+    
+}
+
+.container
+
+{
+    margin: auto;
+    max-width: 240px;
+    padding: 20px;
+
+}
+
+.grid
+{   
+    padding-top: 10px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+
+}
+
+.celula
+{
+    width: 75px;
+    height: 65px;
+    font-size: 30pt;
+    margin: 4px 2px;
+    font-weight: 300;
+    padding-top: 10px;
+    border-radius: 3px;
+    text-align: center;
+    background-color: cadetblue;
+
+}
