@@ -4,7 +4,9 @@
 Um jogo da velha feito em javascript
 ## Tech Stack
 
-Javascript
+- HTML
+- CSS
+- Javascript
 
   
 ## Roadmap
